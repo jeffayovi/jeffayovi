@@ -1,6 +1,6 @@
-# My Profile
+# Hello World 👋
 
-## Personal Information
+## Personal Information 👀
 
 - **Name:** Jefferson Ayovi Corozo
 - **GitHub Username:** [Your GitHub Username]
@@ -10,11 +10,11 @@
 - **Currently Enrolled in:** Freecodecamp
 - **Languages:** Spanish (native), English (in the process of learning)
 
-## About Me
+## About Me 👌
 
 I am a passionate software development student with a strong interest in technology and continuous learning. My goal is to become a proficient software developer and contribute to the world of technology.
 
-## Interests
+## Interests 😉
 
 - **Programming:** I love coding in Python and JavaScript, and I'm excited to learn more about web and mobile development.
 - **Reading:** I enjoy reading books on philosophy, history, and politics in my free time.
